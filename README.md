@@ -89,6 +89,6 @@ Music-Playlist-Manager/
 
 ## Author
 
-**Saswat, Abhishek, Ishan**
+**Saswat, Abhishek, Ishan Sharma, Shrreyah, Parth Rane**
 
 A Data Structures and Algorithms (DSA) mini-project.
